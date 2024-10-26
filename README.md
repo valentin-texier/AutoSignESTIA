@@ -71,7 +71,7 @@ L'émargement automatique commencera automatiquement après la configuration. Po
 
 ## 👤 Auteurs
 
-* **Valentin** _alias_ [@outout14](https://github.com/outout14)
+* **Valentin** _alias_ [@valentin-texier](https://github.com/outout14)
 
 ## 📝 License
 
