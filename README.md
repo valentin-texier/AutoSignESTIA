@@ -1,80 +1,39 @@
+# AutoSignESTIA : L’outil incontournable pour l’émargement sur Pegasus ! 🎓
+![logo](https://i.ibb.co/CMqYP85/Pegasus.png)
 
-# Auto-émargement Pegasus (ESTIA)
+## Qu'est-ce qu'AutoSignESTIA ?
 
-Automatisez le processus d'émargement sur la plateforme Pegasus d'ESTIA grâce à ce programme, qui vous permet de ne plus jamais oublier de signer vos présences. 
+AutoSignESTIA est un logiciel d’émargement automatique conçu spécialement pour les étudiants. Il simplifie l'enregistrement de présence, garantissant que chaque cours est émmargé de manière précise et efficace. Optimisez votre temps tout en réduisant le stress lié à l’émargement !
 
-En utilisant vos signatures enregistrées, il assure un émargement régulier et fiable sans effort. Dites adieu aux tâches chronophages de pointage manuel et concentrez-vous sur l'essentiel !
+## Pourquoi choisir AutoSignESTIA ?
 
-![logo](https://i.ibb.co/b1JpF9B/Logo.png)
-### 🛠 Pré-requis
+- **Économisez de l'argent** : Un oubli d'émargement peut vous coûter jusqu'à **10 €** par heure. Évitez ces pertes et maximisez votre temps de travail rémunéré.
 
-Avant de commencer, assurez-vous d'avoir les éléments suivants installés :
+- **Libération de stress** : Fini le stress de gérer les oublis d'émargement dans les 24 heures suivant le cours. AutoSignESTIA s'occupe de tout, vous permettant ainsi de vous concentrer sur vos études !
 
-- **Python 3.12** ou version ultérieure
-- **Google Chrome version 130** ou supérieure
-- **Git** (pour cloner le dépôt)
+- **Offre de lancements** : [Profite de l’offre à seulement 4€ au lieu de 8€ ! Ne laisse pas passer cette chance, c’est ici que ça se passe ! (Paiement uniquement avec ton adresse email ESTIA)](https://app.gumroad.com/checkout?product=dgpovs&accepted_offer_id=mkL_9tLdyWwWoG0ZV2oDxA%3D%3D)
 
-### 🚀 Installation
+## La meilleure option sur le marché
 
-Suivez ces étapes pour installer et configurer le programme sur votre machine :
+- **Installation rapide** : Lancez le programme d’installation en un seul clic ! ⚡
 
-1. **Ouvrir l'Invite de Commandes** :
-   - Appuyez sur `Win + R`, tapez `cmd`, puis appuyez sur `Entrée`. Cela ouvrira la fenêtre de l'invite de commandes.
+- **Créateur de signatures intégré** : Reproduisez vos signatures avec précision. ✍️
 
+- **Émargement automatique**: Émargement à chaque début de cours avec votre signature. 💻
 
-2. **Créer le Dossier de Projet** :
-   - Utilisez les commandes suivantes pour créer le dossier principal du projet :
-   ```bash
-   mkdir C:\WORKSPACE\Python
-   mkdir C:\WORKSPACE\Python\AutoEmargementPegasus
+- **Confidentialité des données** : Vos informations (codes, clés de licence, signatures) sont stockées localement, sans récupération par des tiers. 🔒
 
-3. **Cloner le Dépôt GitHub** :
-   - Dans l'invite de commandes, exécutez la commande suivante pour cloner le dépôt :
-   ```bash
-   git clone https://github.com/outout14/ton_depot.git C:\WORKSPACE\Python\AutoEmargementPegasus
+- **Protection contre les fraudes** : Empêche l'émargement si vous êtes connecté à un VPN, garantissant une utilisation éthique du logiciel. 🛡️
 
-4. **Naviguer vers le Dossier du Projet** :
-   - Entrez dans le dossier du projet :
-   ```bash
-   cd C:\WORKSPACE\Python\AutoEmargementPegasus
-   
-5. **Installer les Dépendances** :
-   - Installez toutes les dépendances en utilisant `pip` :
-   ```bash
-    pip install -r requirements.txt
+## Témoignages utilisateurs 💬
 
-6. **Lancer le Script de Configuration** :
-   - Exécutez le script de configuration pour renseigner les informations nécessaires à l'automatisation :
-   ```bash
-   python setup_config.py
+*"Franchement, AutoSignESTIA a changé la donne pour moi. Fini les absences qui traînent et les galères d'émargement. Maintenant, je peux vraiment me concentrer sur mes cours sans le stress !"*
+— **Cédric Borguetou**, ESTIA 2026
 
-7. **Exécuter l’Automatisation d'Émargement** :
-   - Lancez le script PowerShell `EmargementScheduler.ps1`, qui planifiera les émargements hebdomadaires :
-   ```bash
-   .\EmargementScheduler.ps1
-   
-## 🏃‍♂️ Démarrage
+*"Ce logiciel est juste génial ! J'ai enfin un moyen simple de gérer mes émargements. C'est devenu un incontournable dans ma vie étudiante, je ne peux plus m'en passer !"*
+— **Ximun Mendiburu**, ESTIA 2026
 
-L'émargement automatique commencera automatiquement après la configuration. Pour émarger manuellement, lancez le script suivant :
-   ```bash
-   python run_AutoEmargementPegasus.py
-   ```
+## Informations supplémentaires
 
-## 🛠 Fabriqué avec
-
-[![forthebadge](https://forthebadge.com/images/badges/it-works-dont-know-how.svg)](https://forthebadge.com)
-
-## 📌 Versions
-
-**Dernière version :** 1.0
-
-
-## 👤 Auteurs
-
-* **Valentin** _alias_ [@valentin-texier](https://github.com/outout14)
-
-## 📝 License
-
-Ce projet est sous licence ``WTFTPL`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations.
-
-
+- **Clé de licence** : Pour un accès sans interruption, achetez votre clé de licence avec votre adresse e-mail de l'ESTIA. Les paiements effectués avec d'autres adresses ne seront pas validés. De plus, la clé est à renouveler chaque année en septembre. 🗝️
+- Ce projet est sous licence ``WTFTPL`` - voir le fichier [LICENSE.txt](LICENSE.txt) pour plus d'informations.
